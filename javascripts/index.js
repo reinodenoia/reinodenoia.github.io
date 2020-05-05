@@ -1,0 +1,1 @@
+window.onload=function(){Menu.init(),LoadCircles.init(),EmailForm.init()};
